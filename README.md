@@ -1,6 +1,6 @@
 # GeoCLEWs Agro
 
-This repository introduces **GeoCLEWs Agro**, a complementary extension to **GeoCLEWs v2.0.0** that enhances its foundational functionalities. **GeoCLEWs Agro** builds upon **GeoCLEWs v2.0.0** by adding expanded agro-climatic insights and extending data coverage. This version retains all the core features of **GeoCLEWs v2.0.0** while offering additional capabilities for users requiring broader agro-climatic analysis.
+This repository introduces **GeoCLEWs Agro**, a complementary extension to **GeoCLEWs v2.0.0** that enhances its foundational functionalities. **GeoCLEWs Agro** builds upon [GeoCLEWs v2.0.0](https://github.com/OSeMOSYS/CLEWs_GAEZ/commit/6e23635efcde224eb54120390ff18ccfe2604b1a) by adding expanded agro-climatic insights and extending data coverage. This version retains all the core features of [GeoCLEWs v2.0.0](https://github.com/OSeMOSYS/CLEWs_GAEZ/commit/6e23635efcde224eb54120390ff18ccfe2604b1a) while offering additional capabilities for users requiring broader agro-climatic analysis.
 
 # Key Features
 
@@ -12,11 +12,11 @@ GeoCLEWs Agro captures additional temporal agro-climatic indicators, offering ex
 
 # Data Source
 
-Similar to GeoCLEWs V2 The agro-climatic data is sourced from **GAEZ**, which leverages its extensive database on global agriculture to generate insights tailored to varying environmental and agricultural conditions.
+Similar to [GeoCLEWs v2.0.0](https://github.com/OSeMOSYS/CLEWs_GAEZ/commit/6e23635efcde224eb54120390ff18ccfe2604b1a) The agro-climatic data is sourced from **GAEZ**, which leverages its extensive database on global agriculture to generate insights tailored to varying environmental and agricultural conditions.
 
 # Unchanged Functionalities
 
-This version retains the core features from **v2.0.0** maintaining full compatibility with existing workflows:
+This version retains the core features from [GeoCLEWs v2.0.0](https://github.com/OSeMOSYS/CLEWs_GAEZ/commit/6e23635efcde224eb54120390ff18ccfe2604b1a) maintaining full compatibility with existing workflows:
 
 - **Crop Identification**: Detects primary and secondary crops using **FAOSTAT** and **GAEZ** datasets, ensuring accurate crop classification.
 - **Land Cell Generation**: Develops georeferenced cells adaptable to diverse geographical boundaries, supporting flexible and scalable analysis.
@@ -39,11 +39,11 @@ This version retains the core features from **v2.0.0** maintaining full compatib
 3. **2041-2070**: Mid-Century
 4. **2071-2100**: End of Century
 
-For a detailed overview of features from **Version 2.0.0**, refer to its documentation.
+For a detailed overview of features from **Version 2.0.0**, refer to its [documentation](https://github.com/OSeMOSYS/CLEWs_GAEZ/blob/main/README.md).
 
 # Installation and Usage
 
-The **installation** process and **usage instructions** remain unchanged from **Version 2.0.0**. Please refer to the GeoCLEWs v2.0.0 README for detailed steps.
+The **installation** process and **usage instructions** remain unchanged from **Version 2.0.0**. Please refer to the GeoCLEWs v2.0.0 [README](https://github.com/OSeMOSYS/CLEWs_GAEZ/blob/main/README.md).
 
 # Applications
 
